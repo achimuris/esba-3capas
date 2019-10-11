@@ -1,0 +1,7 @@
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\BLL\bin\Debug\BLL.dll
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\BLL\bin\Debug\BLL.pdb
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\BLL\bin\Debug\DAL.dll
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\BLL\bin\Debug\DAL.pdb
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\BLL\obj\Debug\BLL.dll
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,5 @@
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\DAL\bin\Debug\DAL.dll
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\DAL\bin\Debug\DAL.pdb
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\DAL\obj\Debug\DAL.dll
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\DAL\obj\Debug\DAL.pdb

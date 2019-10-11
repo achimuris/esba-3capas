@@ -1,0 +1,13 @@
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\bin\Debug\MiPrimeraAPPen3Capas.exe.config
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\bin\Debug\MiPrimeraAPPen3Capas.exe
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\bin\Debug\MiPrimeraAPPen3Capas.pdb
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\obj\Debug\MiPrimeraAPPen3Capas.csprojResolveAssemblyReference.cache
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\obj\Debug\MiPrimeraAPPen3Capas.Properties.Resources.resources
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\obj\Debug\MiPrimeraAPPen3Capas.csproj.GenerateResource.Cache
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\obj\Debug\MiPrimeraAPPen3Capas.exe
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\obj\Debug\MiPrimeraAPPen3Capas.pdb
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\obj\Debug\MiPrimeraAPPen3Capas.Form1.resources
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\bin\Debug\BLL.dll
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\bin\Debug\BLL.pdb
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\bin\Debug\DAL.dll
+c:\users\ar00111194\documents\visual studio 2015\Projects\MiPrimeraAPPen3Capas\MiPrimeraAPPen3Capas\bin\Debug\DAL.pdb
